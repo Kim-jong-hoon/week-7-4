@@ -1,4 +1,5 @@
 # 4일차 PID 제어 기법 및 응용
+[day4_lecture.pdf](https://github.com/user-attachments/files/21676262/day4_lecture.pdf)
 
 ## 1교시 PID 제어의 기본과 디지털 구현
 
